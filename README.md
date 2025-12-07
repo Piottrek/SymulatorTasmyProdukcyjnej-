@@ -1,7 +1,6 @@
 # Symulator Taśmy Produkcyjnej  
 ### Projekc demonstracyjny wzorców projektowych: **Strategy · Observer · Facade · Memento**
 
----
 
 ## Opis projektu
 
@@ -17,7 +16,6 @@ Projekt został stworzony, aby pokazać praktyczne wykorzystanie wzorców projek
 
 Frontend jest w pełni dynamiczny i reaguje na zmiany backendu w czasie rzeczywistym.
 
----
 
 ##  Funkcjonalności
 
@@ -43,8 +41,6 @@ Frontend jest w pełni dynamiczny i reaguje na zmiany backendu w czasie rzeczywi
 - REST API jest uproszczone i spójne  
 
 
----
-
 ## 📂 Technologie
 
 ### 🔧 Backend
@@ -60,7 +56,6 @@ Frontend jest w pełni dynamiczny i reaguje na zmiany backendu w czasie rzeczywi
 - Vanilla JavaScript  
 - WebSocket (SockJS + STOMP)
 
----
 
 ## 🚀 Uruchamianie
 
@@ -73,7 +68,6 @@ Aplikacja domyślnie uruchamia się pod:
 
 http://localhost:8080
 
----
 
 ## 🔌 REST API
 
